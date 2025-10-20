@@ -8,4 +8,6 @@ int main()
 		mul=num*i;
 		printf("\n%d X %d = %d", num, i, mul);
 	}
+	return 0;
 }
+
